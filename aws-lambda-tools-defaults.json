@@ -16,5 +16,4 @@
   "function-memory-size": 256,
   "function-timeout": 30,
   "function-handler": "AWSLambda1::AWSLambda1.Function::FunctionHandler",
-  "environment": "Variables=\"{AWS_ACCESS_KEY_ID=AKIAJTHKW2O56OOPBKIQ,AWS_SECRET_ACCESS_KEY=i3KOsG6Pk6cHRtmf2g8KAcs4vB+kEY/v+7h5mUz}\""
 }
