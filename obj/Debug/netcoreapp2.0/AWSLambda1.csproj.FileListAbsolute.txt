@@ -1,0 +1,9 @@
+D:\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.0\AWSLambda1.deps.json
+D:\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.0\AWSLambda1.dll
+D:\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.0\AWSLambda1.pdb
+D:\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.0\AWSLambda1.csprojResolveAssemblyReference.cache
+D:\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.0\AWSLambda1.csproj.CoreCompileInputs.cache
+D:\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.0\AWSLambda1.AssemblyInfoInputs.cache
+D:\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.0\AWSLambda1.AssemblyInfo.cs
+D:\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.0\AWSLambda1.dll
+D:\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.0\AWSLambda1.pdb

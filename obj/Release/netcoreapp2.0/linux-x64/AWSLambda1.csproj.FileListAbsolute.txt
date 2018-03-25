@@ -1,0 +1,10 @@
+D:\AWSLambda1\AWSLambda1\bin\Release\netcoreapp2.0\linux-x64\AWSLambda1.deps.json
+D:\AWSLambda1\AWSLambda1\bin\Release\netcoreapp2.0\linux-x64\AWSLambda1.runtimeconfig.json
+D:\AWSLambda1\AWSLambda1\bin\Release\netcoreapp2.0\linux-x64\AWSLambda1.runtimeconfig.dev.json
+D:\AWSLambda1\AWSLambda1\bin\Release\netcoreapp2.0\linux-x64\AWSLambda1.dll
+D:\AWSLambda1\AWSLambda1\bin\Release\netcoreapp2.0\linux-x64\AWSLambda1.pdb
+D:\AWSLambda1\AWSLambda1\obj\Release\netcoreapp2.0\linux-x64\AWSLambda1.csproj.CoreCompileInputs.cache
+D:\AWSLambda1\AWSLambda1\obj\Release\netcoreapp2.0\linux-x64\AWSLambda1.AssemblyInfoInputs.cache
+D:\AWSLambda1\AWSLambda1\obj\Release\netcoreapp2.0\linux-x64\AWSLambda1.AssemblyInfo.cs
+D:\AWSLambda1\AWSLambda1\obj\Release\netcoreapp2.0\linux-x64\AWSLambda1.dll
+D:\AWSLambda1\AWSLambda1\obj\Release\netcoreapp2.0\linux-x64\AWSLambda1.pdb
